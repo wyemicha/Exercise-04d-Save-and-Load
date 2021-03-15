@@ -1,6 +1,8 @@
 # Exercise-04d-Save-and-Load
 Exercise for MSCH-C220, 15 March 2021
 
+A demonstration of this exercise is available at [https://youtu.be/WSBgQ3PBmbA](https://youtu.be/WSBgQ3PBmbA).
+
 This exercise is designed to continue our creation of a 2D Platformer, by demonstrating the wrong and the right (better?) ways to save and load data.
 
 Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-04d-Save-and-Load. *Edit the LICENSE and replace BL-MSCH-C220-S21 with your full name.* Commit your changes.
